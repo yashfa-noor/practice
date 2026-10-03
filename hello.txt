@@ -1,2 +1,3 @@
 hello github this is my gitlab
-i amlearning Git and GitHub
+i am learning Git and GitHub
+This change is made in feature branch.
