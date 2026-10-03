@@ -1,3 +1,5 @@
+
 hello from main branch
+hello from conflict branch
 i am learning Git and GitHub
 This change is made in feature branch.
